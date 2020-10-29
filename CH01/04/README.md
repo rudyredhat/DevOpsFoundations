@@ -4,7 +4,7 @@
   - `People over Process over Tools` by [Alex Honor](http://dev2ops.org/2010/02/people-over-process-over-tools/)
 - Second Methodology
   - `CD` = Code, Test & Release Software frequently
-    - eg = [DevOps Trnsformation](https://itrevolution.com/the-amazing-devops-transformation-of-the-hp-laserjet-firmware-team-gary-gruver/)
+    - eg = [DevOps Transformation](https://itrevolution.com/the-amazing-devops-transformation-of-the-hp-laserjet-firmware-team-gary-gruver/)
 - Third Methodology
   - `Lean Management`
     - work in small batches
