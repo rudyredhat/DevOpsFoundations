@@ -1,0 +1,15 @@
+# DevOps
+- Practice of `operations` and `development engineers` participating together in the entire service lifecycle.
+- **DESIGN** `-->` **DEVELOPMENT** `-->` **PRODUCTION** = `CODE`+`TEST`+`DEPLOY`+`OPERATE`
+- Can be break down to `5` levels:
+  - Values
+  - Principles
+  - Methods
+  - Practices
+  - Tools
+- Why Devops ?
+  - Faster outcomes
+  - Making day to day life easier
+- What is `Dev` + `Ops` ?
+  - `Development` = Developers + Front end + QA
+  - `Operations` = System, Network, DB (admins)
