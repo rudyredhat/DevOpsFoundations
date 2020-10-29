@@ -1,0 +1,23 @@
+# DevOps Methodologies
+- 5 most prevalent methodologies
+- First Methodology
+  - `People over Process over Tools` by [Alex Honor](http://dev2ops.org/2010/02/people-over-process-over-tools/)
+- Second Methodology
+  - `CD` = Code, Test & Release Software frequently
+    - eg = [DevOps Trnsformation](https://itrevolution.com/the-amazing-devops-transformation-of-the-hp-laserjet-firmware-team-gary-gruver/)
+- Third Methodology
+  - `Lean Management`
+    - work in small batches
+    - work in progress limits
+    - feedback loops
+- Fourth Methodology
+  - `The Visible OPS Style Change Control` = [Book](https://www.amazon.com/Visible-Ops-Handbook-Implementing-Practical/dp/0975568612)
+  - Direct coleration between operational success and control over changes in env
+    - Eliminate fragile artifacts
+    - Create a repeatable build process
+    - Manage Dependencies
+- Fifth Methodology
+  - `Infrastructure as Code`
+    - System treated like code
+    - Checked into source control
+    - Reviewed, built and tested
