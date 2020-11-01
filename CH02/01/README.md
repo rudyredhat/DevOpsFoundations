@@ -45,13 +45,13 @@
     - **[Web Operations](https://www.oreilly.com/library/view/web-operations/9781449377465/)**
   - Diff lang and Diff tech sums upto diff way of thinking
   - Adopt both the lang is quite benefit as per keeping on self
-  - Gathering team as a discussion, eg **(HUBOT)[https://hubot.github.com/]**, similar to Slack, IRC.
+  - Gathering team as a discussion, eg **[HUBOT](https://hubot.github.com/)**, similar to Slack, IRC.
 `----------------------------------------------------------------------------------------------------------`
 4. `Leaders & Changing Roles`
   - Devs have to check failing builds and deployment after they have checked in their code
   - Willing to go on call for support
   - Ops and QA engg have to change their approach to provide self service platform and guidance, instead of doing for other people
-  - eg, **[Chef Op Maturity Model ](https://www.dropbox.com/s/k8f4cra4jiff45g/Operations-Maturity-Model.pdf)**
+  - eg, **[Chef Op Maturity Model](https://www.dropbox.com/s/k8f4cra4jiff45g/Operations-Maturity-Model.pdf)**
   - In 2016 , there came `The Westrum Model` which is lean management approach, which is related to Power, Rule & Performance Oriented
   - Always have minimum viable process.
   - Management best practices
