@@ -1,5 +1,5 @@
 # DevOps Culture Problem
-1. `IT CROWD`
+## `IT CROWD`
 - There are Developers, Sysadmins, Infosec Professionals, Network admins, Database admins must not have the conflict.
 - Like the developers and sysadmins have a wall in between with the code from devlopment to the production, taken care by them individually.
 - Developers team are working for:
@@ -11,7 +11,7 @@
   - Controlling change
 - This leads to creation of extra `walls` among the teams.
 `------------------------------------------------------------------------------------------------------------`
-2. `Key Words & Communication skills`
+## `Key Words & Communication skills`
 - Blameless postmortems 
   - Do it within 48 hours when cutomer is facing some issue
   - Have a team build a timeline
@@ -31,7 +31,7 @@
   - Have a communication channel
   - Above all else, be authentic
 `------------------------------------------------------------------------------------------------------------`
-3. `Collaboration & Culture`
+## `Collaboration & Culture`
 - How to build trust?
   - Books
     - **[Crucial Conversations](https://www.mheducation.com/highered/product/crucial-conversations-tools-talking-when-stakes-high-second-edition-patterson-grenny/9780071775304.html)**
@@ -47,7 +47,7 @@
   - Adopt both the lang is quite benefit as per keeping on self
   - Gathering team as a discussion, eg **[HUBOT](https://hubot.github.com/)**, similar to Slack, IRC.
 `----------------------------------------------------------------------------------------------------------`
-4. `Leaders & Changing Roles`
+## `Leaders & Changing Roles`
   - Devs have to check failing builds and deployment after they have checked in their code
   - Willing to go on call for support
   - Ops and QA engg have to change their approach to provide self service platform and guidance, instead of doing for other people
@@ -59,7 +59,7 @@
     - Help people through change
     - Use agile, lean processes 
 `----------------------------------------------------------------------------------------------------------`
-5. `Kaizen: Continous Improvement`
+## `Kaizen: Continous Improvement`
   - In DevOps there is a love for Japenese Word
   - Kaizen - a popular devops practice, means change for the better
   - which is lean model of toyota production system
