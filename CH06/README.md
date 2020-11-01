@@ -4,6 +4,7 @@
   - MTTR = mean time to recovery, how quickly a service can recover from a disruption and restore service
   - MTBF = mean time between failures, avg time between service disruptions
   - eg = SRE 
+  
 `-------------------------------------------------------------------------------------------`
 ## `Operation: Theory, Practice , Design (Metrics & Monitoring)`
   - **[Book- Release It!](https://www.oreilly.com/library/view/release-it/9781680500264/)**
@@ -19,6 +20,7 @@
     - app metrics
     - performance
     - security
+    
 `-------------------------------------------------------------------------------------------`
 ## `Logging`
   - used by devs and ops teams
