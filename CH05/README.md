@@ -5,7 +5,7 @@
   - `CI` = automatically building and unit testing the entire appln
   - `CDelivery` = deploying every change to a production like env and performing automated integration and acceptance testing
   - `CDeploy` = after testing every change, automatically deploying to prod
-`------------------------------------------------------------------------------------------`
+
 ## `CI practices`
   - `CD` = code -> build -> unit tests -> code validation -> packaging -> artifact
   - CI practice
@@ -17,7 +17,7 @@
       - multiple commits each day
     - don't allow flaky test, fix them
     - the build should return a status, a log and an artifact
-`------------------------------------------------------------------------------------------`
+
 ## `CDelivery pipelines`
   - Only build arifacts once
   - artifacts should be immutable
@@ -26,7 +26,7 @@
   - staging should be a copy of prod
   - stop deploy if a previous step fails
   - deployments should be idempotent
-`------------------------------------------------------------------------------------------`
+
 ## `QA role`
   - types of testing
     - unit testing
@@ -37,7 +37,6 @@
     - performance testing
     - security testing
     
-`------------------------------------------------------------------------------------------`
 ## `CI toolchain`
   - six phases
     - VC
