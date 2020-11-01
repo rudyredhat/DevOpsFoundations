@@ -96,4 +96,3 @@
       - Programmable - invoke from API or call from cmd line.
       - Verifiable - events and metrics are the imp feedback.
       - Well behaved - use for source control, test would verify the behaviour and able to deploy it in automated manner.
-`----------------------------------------------------------------------------------------------`
