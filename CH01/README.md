@@ -14,7 +14,7 @@
   - What is `Dev` + `Ops` ?
     - `Development` = Developers + Front end + QA
     - `Operations` = System, Network, DB (admins)
-`----------------------------------------------------------------------------------------------`
+
 ## `DevOps Values`
 - CAMS
   - About **[CAMS Model](https://blog.chef.io/what-devops-means-to-me/)**
@@ -29,7 +29,7 @@
     - Revenue
     - Employee Satisfaction
   - `Sharing` is generally heart of DevOps
-`----------------------------------------------------------------------------------------------`
+
 ## `DevOps Principles`
 - The Three ways Principles: [Gene Kim](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)
   - Principles were:
@@ -44,7 +44,7 @@
       - Open to learn new things and actively tries how it works or not
       - Master the skills with the repition of practice
       - e.g = `If it hurts, do it more`
-`----------------------------------------------------------------------------------------------`
+
 ## `DevOps Methodologies`
 - Five most prevalent methodologies
   - First Methodology
@@ -68,7 +68,7 @@
       - System treated like code
       - Checked into source control
       - Reviewed, built and tested
-`----------------------------------------------------------------------------------------------`
+
 ## `DevOps Practices`
   - 10. `Incident Command System` - All the bad things happens to the IT, called as Incidents
   - 9. `Developers on Call` - Fast feedback loop, with mogging and deployment, application problem is resolved quickly
@@ -87,7 +87,7 @@
    Blue           Green
    ```
    - 1. `Chaos Monkey` - In old style sys - making each component of a sys available to achieve the highest available uptime. But now there is chaos monkey, used by `netflix` on amazon cloud , which kills the server which forces operators and devs creating the systems to engineers resiliency into their services instead of thinking that infra is always on.
-`----------------------------------------------------------------------------------------------`
+
 ## `DevOps Tools`
   - Use for code, build, test, package, release, configure, monitor sys and appln.
   - So we have series of tools that can be converted to tool chain. **[Blog](https://en.wikipedia.org/wiki/DevOps_toolchain)**
