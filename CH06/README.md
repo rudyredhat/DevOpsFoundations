@@ -5,7 +5,6 @@
   - MTBF = mean time between failures, avg time between service disruptions
   - eg = SRE 
   
-`-------------------------------------------------------------------------------------------`
 ## `Operation: Theory, Practice , Design (Metrics & Monitoring)`
   - **[Book- Release It!](https://www.oreilly.com/library/view/release-it/9781680500264/)**
   - Cascading failures can be overcome by the Circuit Breaker pattern
@@ -21,7 +20,6 @@
     - performance
     - security
     
-`-------------------------------------------------------------------------------------------`
 ## `Logging`
   - used by devs and ops teams
   - five Ws of logging?
@@ -30,7 +28,7 @@
     - where did it happen?
     - who was involved?
     - where did that entity come from?
-`-------------------------------------------------------------------------------------------`
+
 ## `SRE toolchain`
   - saas monitoring
     - pingdom, datadog, netuitive, ruxit, librato, new relic, appdynamics
