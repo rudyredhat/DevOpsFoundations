@@ -1,4 +1,5 @@
 # DevOps
+## `DevOps ?`
 - Practice of `operations` and `development engineers` participating together in the entire service lifecycle.
   - **DESIGN** `-->` **DEVELOPMENT** `-->` **PRODUCTION** = `CODE`+`TEST`+`DEPLOY`+`OPERATE`
   - Can be break down to `5` levels:
@@ -14,7 +15,7 @@
     - `Development` = Developers + Front end + QA
     - `Operations` = System, Network, DB (admins)
 `----------------------------------------------------------------------------------------------`
-# DevOps Values
+## `DevOps Values`
 - CAMS
   - About **[CAMS Model](https://blog.chef.io/what-devops-means-to-me/)**
     - `Culture` + `Automation` + `Measurement` + `Sharing`
@@ -29,7 +30,7 @@
     - Employee Satisfaction
   - `Sharing` is generally heart of DevOps
 `----------------------------------------------------------------------------------------------`
-# DevOps Principles
+## `DevOps Principles`
 - The Three ways Principles: [Gene Kim](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)
   - Principles were:
     - `Systems thinking`
@@ -44,7 +45,7 @@
       - Master the skills with the repition of practice
       - e.g = `If it hurts, do it more`
 `----------------------------------------------------------------------------------------------`
-# DevOps Methodologies
+## `DevOps Methodologies`
 - Five most prevalent methodologies
   - First Methodology
     - `People over Process over Tools` by [Alex Honor](http://dev2ops.org/2010/02/people-over-process-over-tools/)
@@ -68,7 +69,7 @@
       - Checked into source control
       - Reviewed, built and tested
 `----------------------------------------------------------------------------------------------`
-# DevOps Practices
+## `DevOps Practices`
   - 10. `Incident Command System` - All the bad things happens to the IT, called as Incidents
   - 9. `Developers on Call` - Fast feedback loop, with mogging and deployment, application problem is resolved quickly
   - 8. `Public Status Pages` - Through communication we can achieve uptime. **[Blog](http://www.transparentuptime.com/)**
@@ -87,7 +88,7 @@
    ```
    - 1. `Chaos Monkey` - In old style sys - making each component of a sys available to achieve the highest available uptime. But now there is chaos monkey, used by `netflix` on amazon cloud , which kills the server which forces operators and devs creating the systems to engineers resiliency into their services instead of thinking that infra is always on.
 `----------------------------------------------------------------------------------------------`
-# DevOps Tools
+## `DevOps Tools`
   - Use for code, build, test, package, release, configure, monitor sys and appln.
   - So we have series of tools that can be converted to tool chain. **[Blog](https://en.wikipedia.org/wiki/DevOps_toolchain)**
   - we need to focus on following:
