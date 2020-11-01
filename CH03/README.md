@@ -4,7 +4,7 @@
   - Previously there was a use of waterfall model
   - But in Agile we have Sprint based on the interactive plan model
   - But there is no mention of Operations in the manifesto, whereas there is nothing about the last part of the software
-  - [Blog](https://theagileadmin.com/2010/10/15/a-devops-manifesto/)
+  - [Blog](https://theagileadmin.com/2010/10/15/a-devops-manifesto/) for devops manifesto
 `------------------------------------------------------------------------------------------------`
 ## `Lean`
   - Seven Priciples of Lean Software
