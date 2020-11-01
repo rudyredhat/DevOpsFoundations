@@ -10,7 +10,7 @@
   - Maintaining stability
   - Controlling change
 - This leads to creation of extra `walls` among the teams.
-`------------------------------------------------------------------------------------------------------------`
+
 ## `Key Words & Communication skills`
 - Blameless postmortems 
   - Do it within 48 hours when cutomer is facing some issue
@@ -30,7 +30,7 @@
   - Sound like a human
   - Have a communication channel
   - Above all else, be authentic
-`------------------------------------------------------------------------------------------------------------`
+
 ## `Collaboration & Culture`
 - How to build trust?
   - Books
@@ -46,7 +46,7 @@
   - Diff lang and Diff tech sums upto diff way of thinking
   - Adopt both the lang is quite benefit as per keeping on self
   - Gathering team as a discussion, eg **[HUBOT](https://hubot.github.com/)**, similar to Slack, IRC.
-`----------------------------------------------------------------------------------------------------------`
+
 ## `Leaders & Changing Roles`
   - Devs have to check failing builds and deployment after they have checked in their code
   - Willing to go on call for support
@@ -58,7 +58,7 @@
     - Independent, corss-functional teams (re-organising them)
     - Help people through change
     - Use agile, lean processes 
-`----------------------------------------------------------------------------------------------------------`
+
 ## `Kaizen: Continous Improvement`
   - In DevOps there is a love for Japenese Word
   - Kaizen - a popular devops practice, means change for the better
@@ -79,4 +79,4 @@
     - Track the forks in your five whys , e.g `Fish-Bone` Diagram can track all these
     - Don't accept human error as a root cause
   - `People don't fail; processes do`
-`------------------------------------------------------------------------------------------------------------`
+
