@@ -30,7 +30,7 @@
   - Sound like a human
   - Have a communication channel
   - Above all else, be authentic
-  `------------------------------------------------------------------------------------------------------------`
+`------------------------------------------------------------------------------------------------------------`
 3. `Collaboration & Culture`
 - How to build trust?
   - Books
@@ -45,8 +45,8 @@
     - **[Web Operations](https://www.oreilly.com/library/view/web-operations/9781449377465/)**
   - Diff lang and Diff tech sums upto diff way of thinking
   - Adopt both the lang is quite benefit as per keeping on self
-  - Gathering team as a discussion, eg **(HUBOT)[https://hubot.github.com/]**, similar to Slack, IRC. 
-`------------------------------------------------------------------------------------------------------------`
+  - Gathering team as a discussion, eg **(HUBOT)[https://hubot.github.com/]**, similar to Slack, IRC.
+`----------------------------------------------------------------------------------------------------------`
 4. `Leaders & Changing Roles`
   - Devs have to check failing builds and deployment after they have checked in their code
   - Willing to go on call for support
@@ -57,8 +57,8 @@
   - Management best practices
     - Independent, corss-functional teams (re-organising them)
     - Help people through change
-    - Use agile, lean processes
-`------------------------------------------------------------------------------------------------------------`
+    - Use agile, lean processes 
+`----------------------------------------------------------------------------------------------------------`
 5. `Kaizen: Continous Improvement`
   - In DevOps there is a love for Japenese Word
   - Kaizen - a popular devops practice, means change for the better
@@ -80,21 +80,3 @@
     - Don't accept human error as a root cause
   - `People don't fail; processes do`
 `------------------------------------------------------------------------------------------------------------`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
